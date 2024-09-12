@@ -1,0 +1,5 @@
+n = input('Digite algo!')
+print(n.isalnum())
+print(n.isalpha())
+print(n.isascii())
+print(n.isdigit())
